@@ -13,7 +13,9 @@ Medical Relevance: Aims to assist in the preliminary screening of brain health, 
 
 # How to Use
 Clone the Repository 📁:
+
 https://github.com/Afsheenfatymah/Brain-Tumor-Detection.git
+
 Teachable Machine URL https://teachablemachine.withgoogle.com/models/rdMkHpLFn/
 
 # Setup 🔧:
