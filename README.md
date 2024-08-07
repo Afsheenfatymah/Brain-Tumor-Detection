@@ -12,7 +12,7 @@ Medical Relevance: Aims to assist in the preliminary screening of brain health, 
 # Data Source: The data for this project was sourced from Kaggle, providing a rich and diverse dataset for training. 📊
 
 # How to Use
-# Clone the Repository 📁:
+Clone the Repository 📁:
 https://github.com/Afsheenfatymah/Brain-Tumor-Detection.git
 Teachable Machine URL https://teachablemachine.withgoogle.com/models/rdMkHpLFn/
 
