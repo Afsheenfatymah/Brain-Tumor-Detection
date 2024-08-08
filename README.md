@@ -1,5 +1,5 @@
-# Brain-Tumor-Detection
-Brain Health Classification Using Teachable Machine 🧠
+# Brain-Tumor-Detection 🧠
+ 
 
 # Overview
 I’m excited to share my latest project that leverages Teachable Machine by Google to classify brain images into two categories: 
