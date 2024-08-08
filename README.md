@@ -2,11 +2,15 @@
 Brain Health Classification Using Teachable Machine 🧠
 
 # Overview
-I’m excited to share my latest project that leverages Teachable Machine by Google to classify brain images into two categories: healthy brain and brain tumor. This project demonstrates the potential of machine learning in the medical field, particularly in early detection and diagnosis of brain conditions.
+I’m excited to share my latest project that leverages Teachable Machine by Google to classify brain images into two categories: 
+healthy brain and brain tumor. 
+This project demonstrates the potential of machine learning in the medical field, particularly in early detection and diagnosis of brain conditions.
 
 # Features
 Image Classification: Differentiates between healthy brain images and those indicating the presence of a brain tumor. 🩺
+
 Teachable Machine Integration: Utilizes Google’s Teachable Machine to train a custom model. 🔬
+
 Medical Relevance: Aims to assist in the preliminary screening of brain health, supporting healthcare professionals in diagnostic processes. ⚕️
 
 # Data Source: The data for this project was sourced from Kaggle, providing a rich and diverse dataset for training. 📊
